@@ -1,0 +1,12 @@
+To: a21@gmail.com
+Subject: Confirm your SkillLink email
+Date: 2026-10-19 19:58:35Z
+
+Hello Ame,
+
+Confirm your email address by opening this link:
+https://localhost:63614/Account/Verify?token=CfDJ8JNHIjgoXp1Nldw_ebrV1g4Vz0xLEUxgBHdpmWjFBIObumWnNNGs6KayGWUjtNbalXUeYihBPd2IFywovE6L9e1rlVwHrbxZM7LXGWxqgccBYRnty_q0tu-xV67yZmG5idieLIqK3vmN8hNcySuYRRNJUiWe0ZmrsmtYX4_ycN7K
+
+The link works for 3 days.
+
+SkillLink
